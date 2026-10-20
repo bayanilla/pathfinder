@@ -6,7 +6,7 @@ Pathfinder provides a timestamped, outside-in view of how public routing
 collectors see your internet footprint. Network teams can compare that view with
 router configuration, policy, provider records, and recent changes.
 
-**AI-assisted proof of concept.** Pathfinder is a local investigation aid for
+**Proof of concept.** Pathfinder is a local investigation aid for
 analysts. It reads existing RIPE data and, optionally, Shodan service observations.
 It never scans your addresses or requests new measurements. No AI runs in the
 application to collect, score, or interpret evidence. Its reports support
